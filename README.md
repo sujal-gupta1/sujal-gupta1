@@ -1,8 +1,8 @@
-## Hi there 👋
-
-# I'm Sujal Gupta
+## Hi there 👋, I'm Sujal Gupta
 
 **Developer and mining engineer**
+
+**Mbmu'28**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/sujal-gupta-6b0772380)
 
@@ -35,8 +35,7 @@ https://github.com/sujal-gupta1/Spark-project-1
 ## 📫 Connect with Me
 
 - [LinkedIn Profile](https://www.linkedin.com/in/sujal-gupta-6b0772380)
-- [Instagram profile]
+- [Instagram profile](sujalgupta2431) 
 
-- [E-mail id]
-  (Guptasujal850@gmail.com) 
+- [E-mail id](Guptasujal850@gmail.com) 
 ---
