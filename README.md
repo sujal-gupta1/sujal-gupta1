@@ -32,8 +32,8 @@ https://github.com/sujal-gupta1/Spark-project-1
 
 ---
 ## STREAK STATUS 
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=sujal-gupta1&theme=dracula&currStreakNum=FF522D&currStreakLabel=EB5656&stroke=000000&dates=069A0C&background=77E3EB" alt="sujal-gupta1" /></p>
-  
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sujal-gupta1&theme=dracula&currStreakNum=FF522D&currStreakLabel=EB5656&stroke=000000&dates=069A0C&background=77E3EB" alt="sujal-gupta1" /></p>
+
 ---
 
 ## 📫 Connect with Me
